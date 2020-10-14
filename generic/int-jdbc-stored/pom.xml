@@ -15,7 +15,7 @@
         <spring.integration.version>3.0.2.RELEASE</spring.integration.version>
         <log4j.version>1.2.14</log4j.version>
         <slf4j.version>1.6.1</slf4j.version>
-        <junit.version>4.9</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
